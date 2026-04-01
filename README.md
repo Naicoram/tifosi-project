@@ -10,3 +10,7 @@
 ## Installation
 1. Importer tifosi_structure.sql
 2. Exécuter insert_test_data.sql
+
+##Identifiant
+tifosi
+mdp: tifosi
