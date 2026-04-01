@@ -12,5 +12,5 @@
 2. Exécuter insert_test_data.sql
 
 ##Identifiant
-tifosi
-mdp: tifosi
+-tifosi
+-mdp: tifosi
